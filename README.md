@@ -1,4 +1,0 @@
-# SocialNetwork
-main
-user
-go
